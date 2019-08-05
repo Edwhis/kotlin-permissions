@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kotlin-permissions/kotlin-permissions.iml" filepath="$PROJECT_DIR$/kotlin-permissions/kotlin-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kotlin-permissions.iml" filepath="$PROJECT_DIR$/.idea/kotlin-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-permissions/kotlin-permissions-kotlin-permissions.iml" filepath="$PROJECT_DIR$/kotlin-permissions/kotlin-permissions-kotlin-permissions.iml" />
       <module fileurl="file://$PROJECT_DIR$/kotlin-permissions-library.iml" filepath="$PROJECT_DIR$/kotlin-permissions-library.iml" />
     </modules>
   </component>
